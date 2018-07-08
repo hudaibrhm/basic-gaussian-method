@@ -1,0 +1,1 @@
+# basic-gaussian-method
